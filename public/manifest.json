@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Rage Pictures",
+  "name": "Replaces all faces to the one you all know",
   "icons": [
     {
       "src": "favicon.ico",
